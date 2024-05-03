@@ -1,0 +1,6 @@
+.github/ export-ignore
+.php-cs-fixer.dist.php export-ignore
+composerw export-ignore
+Dockerfile export-ignore
+rector.php export-ignore
+rector-test/ export-ignore
